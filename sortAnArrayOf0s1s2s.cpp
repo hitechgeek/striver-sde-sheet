@@ -7,7 +7,7 @@ using namespace std;
 // Space Complexity: O(1)
 
 int main() {
-	int n;
+	int n,m;
 	cin>>n;
 	vector <int> nums;
 	for(int i=0;i<n;i++) {
